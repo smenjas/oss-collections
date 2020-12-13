@@ -2,7 +2,7 @@
 
 ## Browsers
 - [Chromium](https://chromium.googlesource.com/chromium/src.git)
-- [Gecko)](https://github.com/mozilla/gecko-dev)
+- [Gecko](https://github.com/mozilla/gecko-dev)
 - [WebKit](https://webkit.org/getting-the-code/)
 
 ## Code Review
@@ -24,6 +24,21 @@
 - [Hudson](https://git.eclipse.org/c/hudson/)
 - [Jenkins](https://github.com/jenkinsci/jenkins)
 - [Travis CI](https://github.com/travis-ci/travis-ci)
+
+## Koans
+- [Go Koans](https://github.com/cdarwin/go-koans)
+- [Java Koans](https://github.com/matyb/java-koans)
+- [Javascript Koans](https://github.com/hackreactor/javascript_koans)
+- [Lisp Koans](https://github.com/google/lisp-koans)
+- [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
+- [Neo4j Koans](https://github.com/jimwebber/neo4j-tutorial)
+- [Python Koans](https://github.com/gregmalcolm/python_koans)
+- [React Native Katas](https://github.com/jondot/ReactNativeKatas)
+- [React.js Koans](https://github.com/arkency/reactjs_koans)
+- [Regular Expression Koans](https://github.com/frenchroasted/RegexKoans)
+- [Ruby Koans](https://github.com/edgecase/ruby_koans)
+- [Rust Koans](https://github.com/crazymykl/rust-koans)
+- [RxJS Koans](https://github.com/Reactive-Extensions/RxJSKoans)
 
 ## Load Balancers
 - [HAProxy](https://github.com/haproxy/haproxy)
