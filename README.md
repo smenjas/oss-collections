@@ -25,6 +25,10 @@
 - [Jenkins](https://github.com/jenkinsci/jenkins)
 - [Travis CI](https://github.com/travis-ci/travis-ci)
 
+## Debuggers
+- [binutils-gdb](https://github.com/bminor/binutils-gdb)
+- [rr](https://github.com/rr-debugger/rr)
+
 ## Load Balancers
 - [HAProxy](https://github.com/haproxy/haproxy)
 - [Unicorn](https://github.com/UnicornTranscoder/UnicornLoadBalancer)
