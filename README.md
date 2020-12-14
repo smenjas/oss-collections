@@ -29,6 +29,12 @@
 - [binutils-gdb](https://github.com/bminor/binutils-gdb)
 - [rr](https://github.com/rr-debugger/rr)
 
+## Editors
+- [emacs](https://github.com/emacs-mirror/emacs)
+- [uEmacs/PK](https://github.com/torvalds/uemacs)
+- [vim](https://github.com/vim/vim)
+- [Visual Studio Code](https://github.com/microsoft/vscode)
+
 ## Kernels
 - [Linux](https://github.com/torvalds/linux)
 - [Linux-stable](https://github.com/gregkh/linux)
