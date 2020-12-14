@@ -29,6 +29,12 @@
 - [binutils-gdb](https://github.com/bminor/binutils-gdb)
 - [rr](https://github.com/rr-debugger/rr)
 
+## Kernels
+- [Linux](https://github.com/torvalds/linux)
+- [Linux-stable](https://github.com/gregkh/linux)
+- [seL4](https://github.com/seL4/seL4)
+- [XNU](https://github.com/apple/darwin-xnu)
+
 ## Load Balancers
 - [HAProxy](https://github.com/haproxy/haproxy)
 - [Unicorn](https://github.com/UnicornTranscoder/UnicornLoadBalancer)
